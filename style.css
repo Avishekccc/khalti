@@ -302,7 +302,7 @@ label {
 
 .banner_img{
   margin-top: 10vw;
-  background-image: url(/image/banner_img04.jpg);
+  background-image: url(./image/banner_img04.jpg);
   height: 47vh;
   width: 100%;
   background-size:cover;
@@ -377,7 +377,7 @@ label {
 }
 
 .img1{
-  background-image: url(/image/gallery_img1.jpg);
+  background-image: url(./image/gallery_img1.jpg);
   background-size: cover;
   border-radius: 20px;
   overflow: hidden;
@@ -536,7 +536,7 @@ background:none;
 
 
 .img_lower_2{
-  background-image: url(/image/gallery_lower_img2.jpg);
+  background-image: url(./image/gallery_lower_img2.jpg);
   background-size: cover;
   border-radius: 20px;
   overflow: hidden;
