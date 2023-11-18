@@ -669,9 +669,8 @@ background:none;
 @media (max-width:600px) {
 
   nav {
-    height: 7.5vh;
+    height: 7.6vh;
   }
-  
   
   .inner-nav a img{
     padding-top: 5px;
